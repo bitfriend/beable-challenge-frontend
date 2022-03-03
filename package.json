@@ -2,6 +2,17 @@
   "name": "beable-challenge-frontend",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "React",
+    "Material",
+    "MUI",
+    "Typescript",
+    "Beable",
+    "Coding",
+    "Challenge"
+  ],
+  "author": "bitfriend",
+  "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
